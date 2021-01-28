@@ -23,3 +23,4 @@ Given more time, I would add and optimize a few things:
 2) Add win condition and score count even (~30 mintues)
 3) Fully implement PWA so it can be played offline after first visit and downloaded as an app (~30 minutes)
 4) Add nicer transitions with delightful animations
+5) Add arrow key support (~1 hour)
