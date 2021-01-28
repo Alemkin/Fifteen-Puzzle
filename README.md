@@ -11,6 +11,8 @@ npm run dev
 ```
 then navigate to the localhost:3002
 
+This is also deployed at: ```https://alemkin.com/games/fifteenpuzzle/``` for ease of access
+
 I added the ability to use your keyboard as well as your mouse to make it accessible.
 
 The app is also fully mobile responsive down to 320px width, the smallest phone width.
