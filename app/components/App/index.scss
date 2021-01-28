@@ -1,0 +1,13 @@
+@import "../../style/variables.scss";
+
+body {
+  background-color: $gray-900;
+}
+
+.puzzle-main {
+  color: $gray-100;
+
+  button {
+    width: 100%;
+  }
+}

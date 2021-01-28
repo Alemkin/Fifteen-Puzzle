@@ -1,0 +1,10 @@
+{
+  "LoadingIcon": {
+    "loading": "LOADING ..."
+  },
+  "Puzzle": {
+    "welcome": "Welcome to Fifteen Puzzle!",
+    "restart": "Restart Game",
+    "directions": "You can click on puzzle pieces to move them to the available spot, or use tab and the (Enter or Space) keys on your keyboard"
+  }
+}

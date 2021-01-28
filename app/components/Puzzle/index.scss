@@ -1,0 +1,33 @@
+@import "../../style/variables.scss";
+
+$borderColor: $white;
+
+.puzzle {
+  .puzzle-row {
+    border-right: 1px solid $borderColor;
+    border-left: 1px solid $borderColor;
+
+    &:first-child {
+      border-top: 1px solid $borderColor;
+    }
+
+    &:last-child {
+      border-bottom: 1px solid $borderColor;
+    }
+
+    .puzzle-col {
+      border: 1px solid $gray-900;
+      background-color: $cyan;
+      min-width: 60px;
+      min-height: 100px;
+      margin: auto;
+      padding-top: 26px;
+      font-size: 30px;
+      font-weight: 600;
+
+      &.empty-col {
+        background-color: $gray-900;
+      }
+    }
+  }
+}
